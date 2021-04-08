@@ -1,0 +1,8 @@
+Comparison	WT	dVif	dVpr	dVpu	Mock
+WT-Mock	1	0	0	0	-1
+WT-dVif	1	-1	0	0	0
+WT-dVpr	1	0	-1	0	0
+WT-dVpu	1	0	0	-1	0
+dVif-Mock	0	1	0	0	-1
+dVpr-Mock	0	0	1	0	-1
+dVpu-Mock	0	0	0	1	-1
